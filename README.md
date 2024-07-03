@@ -86,7 +86,7 @@ If a user sends the correct response, display the following message: `The event 
 { "message": "The event has been added!", "event": "Client event name", "date": "Client date" }
 ```
 
-2.3 Examples
+#### 2.3 Examples
 
 **Example 1**: _Wrong_ `POST` _request for the /event endpoint_
 
